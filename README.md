@@ -1,4 +1,4 @@
-![Release](https://img.shields.io/github/v/release/flareoNNN/YTSharp)
+[![Release](https://img.shields.io/github/v/release/flareoNNN/YTSharp "Release")](https://github.com/flareoNNN/YTSharp/releases "Release")
 
 # YTSharp
 
