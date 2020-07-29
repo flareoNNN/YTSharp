@@ -1,12 +1,15 @@
 # YTSharp
 
-C# için yazılmış YouTube mp3 indirme kütüphanesi.
+C# için yazılmış YouTube mp3 indirme kütüphanesi.<br>
 Versiyon: *1.0.0*
 
 # Kurulum
 
-Kütüphane youtube-dl desteklidir, kullanmak için `youtube-dl.exe` dosyasına sahip olmalısınız.
-youtube-dl Link: [http://ytdl-org.github.io/youtube-dl/download.html](http://ytdl-org.github.io/youtube-dl/download.html)
+Kütüphane youtube-dl desteklidir, kullanmak için `youtube-dl.exe` dosyasına sahip olmalısınız.<br>
+youtube-dl Link: [http://ytdl-org.github.io/youtube-dl/download.html](http://ytdl-org.github.io/youtube-dl/download.html)<br>
+YTSharp Link: [https://github.com/flareoNNN/YTSharp/releases](https://github.com/flareoNNN/YTSharp/releases)<br><br>
+
+YTSharp'ı visual studio'da projenize girerek references(başvurular) kısmından .dll dosyası olarak ekleyebilirsiniz.
 
 # Kullanım
 
