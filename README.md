@@ -4,7 +4,7 @@
 # YTSharp
 
 C# için yazılmış YouTube mp3 indirme kütüphanesi.<br>
-Versiyon: *1.0.0*
+Versiyon: *1.0.1*
 
 # Kurulum
 
