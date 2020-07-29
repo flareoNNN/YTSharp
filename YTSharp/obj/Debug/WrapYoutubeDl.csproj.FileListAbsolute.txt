@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\WrapYoutubeDl-master\WrapYoutubeDl-master\WrapYoutubeDl\obj\Debug\WrapYoutubeDl.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WrapYoutubeDl-master\WrapYoutubeDl-master\WrapYoutubeDl\obj\Debug\WrapYoutubeDl.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WrapYoutubeDl-master\WrapYoutubeDl-master\WrapYoutubeDl\bin\Debug\YTSharp.dll
+C:\Users\user\Desktop\WrapYoutubeDl-master\WrapYoutubeDl-master\WrapYoutubeDl\bin\Debug\YTSharp.pdb
+C:\Users\user\Desktop\WrapYoutubeDl-master\WrapYoutubeDl-master\WrapYoutubeDl\obj\Debug\YTSharp.dll
+C:\Users\user\Desktop\WrapYoutubeDl-master\WrapYoutubeDl-master\WrapYoutubeDl\obj\Debug\YTSharp.pdb
