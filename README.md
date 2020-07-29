@@ -1,4 +1,5 @@
 [![Release](https://img.shields.io/github/v/release/flareoNNN/YTSharp "Release")](https://github.com/flareoNNN/YTSharp/releases "Release")
+[![License](https://img.shields.io/github/license/flareoNNN/YTSharp "License")](https://github.com/flareoNNN/YTSharp/blob/master/LICENSE "License")
 
 # YTSharp
 
