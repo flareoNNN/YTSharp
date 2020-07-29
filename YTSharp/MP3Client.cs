@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Diagnostics;
+using System.IO;
 using System.Text.RegularExpressions;
 
 namespace YTSharp
@@ -48,6 +49,12 @@ namespace YTSharp
             if (string.IsNullOrEmpty(binaryYolu))
             {
                 throw new Exception("youtube-dl konumu bulunamadı/belirtilmedi.");
+            }
+
+            var ytdlYOL = Path.Combine(binaryYolu, "youtube-dl.exe");
+            if (!File.Exists(ytdlYOL))
+            {
+                throw new Exception("youtube-dl konumu bulunamadı.");
             }
 
             var hedefYolu = System.IO.Path.Combine(kayitKonumu, sonIsim);
