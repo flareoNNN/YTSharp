@@ -1,3 +1,5 @@
+[Release](https://img.shields.io/github/v/release/flareoNNN/YTSharp)
+
 # YTSharp
 
 C# için yazılmış YouTube mp3 indirme kütüphanesi.<br>
